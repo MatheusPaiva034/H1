@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "Lista_1___Desenvolvimento_Web.Controllers.FreteController",
+    "Method": "CalcularFrete",
+    "RelativePath": "FreteController/calcular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produto",
+        "Type": "Lista_1___Desenvolvimento_Web.Controllers.FreteController\u002BProdutoDados",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lista_1___Desenvolvimento_Web.Controllers.PessoaController",
+    "Method": "CalcularImc",
+    "RelativePath": "PessoaController/Calcular-imc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pessoa",
+        "Type": "Lista_1___Desenvolvimento_Web.Controllers.PessoaController\u002BPessoaDados",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lista_1___Desenvolvimento_Web.Controllers.PessoaController",
+    "Method": "ConsultaTabelaImc",
+    "RelativePath": "PessoaController/consulta-tabela-imc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imc",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lista_1___Desenvolvimento_Web.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Lista_1___Desenvolvimento_Web.WeatherForecast, Lista 1 \u2013 Desenvolvimento Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,34 @@
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.csproj.AssemblyReference.cache
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\appsettings.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Lista 1 – Desenvolvimento Web.staticwebassets.endpoints.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Lista 1 – Desenvolvimento Web.exe
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Lista 1 – Desenvolvimento Web.deps.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Lista 1 – Desenvolvimento Web.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Lista 1 – Desenvolvimento Web.dll
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Lista 1 – Desenvolvimento Web.pdb
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\scopedcss\bundle\Lista 1 – Desenvolvimento Web.styles.css
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 .916B4ECB.Up2Date
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.dll
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\refint\Lista 1 – Desenvolvimento Web.dll
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.pdb
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\Lista 1 – Desenvolvimento Web.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Lista 1 – Desenvolvimento Web\Lista 1 – Desenvolvimento Web\obj\Debug\net10.0\ref\Lista 1 – Desenvolvimento Web.dll
