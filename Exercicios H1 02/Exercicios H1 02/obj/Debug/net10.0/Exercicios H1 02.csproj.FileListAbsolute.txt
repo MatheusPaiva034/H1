@@ -1,0 +1,34 @@
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\appsettings.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Exercicios H1 02.staticwebassets.endpoints.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Exercicios H1 02.exe
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Exercicios H1 02.deps.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Exercicios H1 02.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Exercicios H1 02.dll
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Exercicios H1 02.pdb
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.csproj.AssemblyReference.cache
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\scopedcss\bundle\Exercicios H1 02.styles.css
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercici.AC16002C.Up2Date
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.dll
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\refint\Exercicios H1 02.dll
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.pdb
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\Exercicios H1 02.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Exercicios H1 02\Exercicios H1 02\obj\Debug\net10.0\ref\Exercicios H1 02.dll
